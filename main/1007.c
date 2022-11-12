@@ -11,5 +11,7 @@
 #include <stdio.h>
 
 int main() {
-    printf("\"C:\\Download\\hello.cpp\"");
+    printf("\"C:\\Download\\hello.cpp\""); // \를 출력하려면, \를 두 번 입력해야합니다.
+    
+    return 0;
 }
