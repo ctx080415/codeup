@@ -4,8 +4,8 @@
 */
 #include <stdio.h>
 int main() {
-    int x;
-    scanf("%d", &x);
-    printf("%d", x);
-    return 0;
+    int x; // 정수 x 선언
+    scanf("%d", &x); // 정수 'x'에 값 입력받고 저장
+    printf("%d", x); // 정수 x 출력
+    return 0; // 함수 끝
 }
