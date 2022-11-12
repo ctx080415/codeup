@@ -6,8 +6,9 @@
 #include <stdio.h>
 
 int main() {
-    char x;
-    scanf("%c", &x);
-    printf("%d", x);
-    return 0;
+    char x; // 문자형 변수 'x' 선언
+    scanf("%c", &x); // x에 값 입력받고 저장
+    printf("%d", x); // x 출력
+    
+    return 0;// 함수 끝
 }
