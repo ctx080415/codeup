@@ -10,6 +10,7 @@
 #include <stdio.h>
 
 int main() {
-  printf("\"Hello World\"");
+  printf("\"Hello World\""); // 큰 따옴표 출력방법은 ("\"내용\"")입니다.
+  
   return 0;
 }
