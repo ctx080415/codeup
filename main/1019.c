@@ -4,7 +4,9 @@
 2013.8.5
 
 출력 예시
-2013.08.05*/
+2013.08.05
+링크: https://codeup.kr/problem.php?id=1019
+*/
 
 #include <stdio.h>
 
