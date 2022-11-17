@@ -4,8 +4,9 @@
 #include <stdio.h>
 
 int main() {
-    int x;
-    scanf("%d", &x);
-    printf("%x", x);
+    int x; // 변수 선언
+    scanf("%d", &x); // 입력받고 저장.
+    printf("%x", x); // %x를 사용하면 16진수로 변환됨
+    
     return 0;
 }
