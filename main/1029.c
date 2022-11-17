@@ -6,9 +6,9 @@
 #include <stdio.h>
 
 int main() {
-    double x;
-    scanf("%lf", &x);
-    printf("%11lf",x);
+    double x; // double = 소수점 이하 15자리까지 나타낼 수 있음.
+    scanf("%lf", &x); // %lf = long float으로, double을 사용할때 씀
+    printf("%11lf",x); // 출력
 
     return 0;
 }
