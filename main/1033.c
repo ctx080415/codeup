@@ -4,8 +4,10 @@
 #include <stdio.h>
 
 int main() {
-    int x;
+    int x; // 변수 선언
 
-    scanf("%d", &x);
-    printf("%X", x);
+    scanf("%d", &x); // 값 입력받고 저장
+    printf("%X", x); //  %X를 사용하면 16진수가 대문자로 출력됨.
+    
+    return 0;
 }
