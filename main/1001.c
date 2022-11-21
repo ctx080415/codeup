@@ -7,7 +7,7 @@ Hello
 #include <stdio.h>
 
 int main() {
-  printf("문장");
+  printf("문장"); // 문장 이라는 단어를 출력
   
   return 0;
 }
