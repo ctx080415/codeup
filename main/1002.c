@@ -10,6 +10,7 @@ Hello World
 #include <stdio.h>
 
 int main() {
-  printf("Hello World");
+  
+  printf("Hello World"); // printf를 사용하여 Hello World라는 문장을 출력
   return 0;
 }
