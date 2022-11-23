@@ -3,7 +3,7 @@
 
 Hello
 World
-https://codeup.kr/problem.php?id=1003
+링크: https://codeup.kr/problem.php?id=1003
 
  */
 
