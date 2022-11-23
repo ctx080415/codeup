@@ -10,6 +10,6 @@ World
 #include <stdio.h>
 
 int main() {
-  printf("Hello\nWorld");
+  printf("Hello\nWorld"); // \n을 사용하면 줄바꿈을 할 수 있다.
   return 0;
 }
