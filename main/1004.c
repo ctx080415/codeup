@@ -9,6 +9,6 @@
 #include <stdio.h>
 
 int main() {
-  printf("'Hello'");
+  printf("'Hello'"); // 큰 따옴표 안에 작은 따옴표를 넣어 출력이 가능하게끔 만든다.
   return 0;
 }
