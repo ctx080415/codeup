@@ -4,10 +4,10 @@
 #include <stdio.h>
 
 int main() {
-    char x;
+    char x; // 문자 선언
 
-    scanf("%c", &x);
-    printf("%c", x+1);
+    scanf("%c", &x); // 입력받고 
+    printf("%c", x+1); // 1을 더하기(정수로 나타낸 수)
 
     return 0;
 }
