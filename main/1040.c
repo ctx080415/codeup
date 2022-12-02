@@ -5,8 +5,8 @@
 #include <stdio.h>
 
 int main() {
-    long int x;
+    long int x; // int의 범위를 넘어설 수 있으므로 long int 선언
 
-    scanf("%ld", &x);
-    printf("%ld", -x);
+    scanf("%ld", &x); // 입력받고
+    printf("%ld", -x); // 출력하기
 }
