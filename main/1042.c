@@ -8,4 +8,6 @@ int main(void) {
     int y;
     scanf("%d %d", &x, &y); // 공백을 기준으로 수를 입력받음
     printf("%d", x/y); // 나누고 몫 출력
+    
+    return 0;
 }
