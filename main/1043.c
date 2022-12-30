@@ -3,6 +3,7 @@
 링크: https://codeup.kr/problem.php?id=1043*/
 #include <stdio.h>
 int main(void) {
+    
     int x; // 변수 선언
     int y;
     
