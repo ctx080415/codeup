@@ -10,7 +10,7 @@ int main() {
     long int y; // long int로 선언한 이유는, int의 범위가 –2,147,483,648 ~ 2,147,483,647인데, 만약 입력값이 1073741824가 두 번 나온다면, 값을 넘어서기에 long int로 선언한다.
 
     scanf("%ld %ld", &x, &y); // x와 y로 값 받기
-    printf("%ld", x + y);
+    printf("%ld", x + y); //x와 y를 더한값을 long int로 출력
 
     return 0;
 }
